@@ -1,0 +1,1 @@
+iam_policy_arn = ["arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess", "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole", "arn:aws:iam::aws:policy/AWSLambdaInvocation-DynamoDB", "arn:aws:iam::aws:policy/service-role/AWSLambdaDynamoDBExecutionRole", "arn:aws:iam::aws:policy/SecretsManagerReadWrite"]
