@@ -37,7 +37,7 @@ To test the third one wait until secret manager and dynamodb table 2 are created
 once done go to your 4th lambda in aws console click on test.
 
 
-To see the expected output from every Lambda go to medium page: 
+To see the expected output from every Lambda go to medium page: https://bit.ly/3C4RTvN
 
 
 
