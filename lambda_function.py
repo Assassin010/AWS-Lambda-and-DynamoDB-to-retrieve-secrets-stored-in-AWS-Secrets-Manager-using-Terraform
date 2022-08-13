@@ -5,7 +5,7 @@ def lambda_handler(event, context):
     # Input values
     Table_name = 'Name your DynamoDB table'
     AWS_Access_Key = 'Put your Access Key here'
-    AWS_Secret_Access_Key = 'Put your Secret Acess here'
+    AWS_Secret_Access_Key = 'Put your Secret Access here'
     
     # Create a DynamoDB table
     print('DynamoDB Table creation started.')
