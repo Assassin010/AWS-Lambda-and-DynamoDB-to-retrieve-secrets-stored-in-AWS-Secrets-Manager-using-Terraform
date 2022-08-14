@@ -3,7 +3,7 @@ How to use AWS Lambda and DyanomoDB to retrieve secrets stored in AWS Secrets Ma
 
 Prerequisites : Code editor (Vscode, Atom, etc), Setup Terraform on your local machine, Setup Terraform in Visual Studio Code, Having an AWS account and an AWS IAM user with the appropriate permissions to perform the necessary actions, Install AWS CLI based on your operating system.
 
-Clone the code to your code editor with git clone command git clone https://github.com/Assassin010/AWS-Lambda-and-DyanomoDB-to-retrieve-secrets-stored-in-AWS-Secrets-Manager-using-Terraform
+Clone the code to your code editor with git clone command git clone https://github.com/Assassin010/AWS-Lambda-and-DynamoDB-to-retrieve-secrets-stored-in-AWS-Secrets-Manager-using-Terraform
 
 Deployment Steps: In your terminal Run these commands below (-)
 
