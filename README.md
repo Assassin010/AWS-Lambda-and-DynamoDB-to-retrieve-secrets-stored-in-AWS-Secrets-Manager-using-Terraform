@@ -28,6 +28,7 @@ In Configure test event:
 Event name: Enter any word, exmaple: test
 
 Event JSON: replace put this below
+
 {
   "key1": "HASH"
 }
