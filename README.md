@@ -7,15 +7,15 @@ Clone the code to your code editor with git clone command git clone https://gith
 
 Deployment Steps: In your terminal Run these commands below (-)
 
--Terraform init
+1. Terraform init
 
 Initialize a working directory containing Terraform configuration files. This is the first command that should be run after writing a new Terraform configuration or cloning an existing one from version control. It is safe to run this command multiple times.
 
--Terraform plan
+2. Terraform plan
 
 The terraform plan command lets you to preview the actions Terraform would take to modify your infrastructure, or save a speculative plan which you can apply later.
 
--Terraform apply-auto-approve To deploy the infra
+3. Terraform apply-auto-approve To deploy the infra
 
 
 TEST event creation
@@ -46,5 +46,4 @@ To see the expected output from every Lambda go to my medium page: https://bit.l
 
 
 
-
-
+4. To destroy the resources use the command: Terraform destroy-auto-approve
